@@ -8,9 +8,12 @@ The following results were obtained after training and evaluating the classifier
    macro avg       0.99      0.99      0.99     11220
 weighted avg       0.99      0.99      0.99     11220
 
-These results indicate that the model performs exceptionally well across all metrics. With an overall accuracy of 99%, the model demonstrates a high ability to correctly classify both true and fake news articles. The precision, recall, and F1-score for both classes are all very high, confirming that the model is effective in minimizing both false positives and false negatives.
+These results indicate that the model performs exceptionally well across all metrics. With an overall accuracy of 99%, the model demonstrates a high ability to correctly classify both true and fake news articles.
+The precision, recall, and F1-score for both classes are all very high, confirming that the model is effective in minimizing both false positives and false negatives.
 
 Conclusion:
-This project successfully developed a machine learning model capable of detecting fake news with an impressive accuracy of 99%. The results highlight the model's robustness in handling real-world datasets and its potential to be deployed as a tool to combat the spread of misinformation. With its high precision and recall, the model is capable of accurately identifying both true and fake news articles, making it a reliable resource for news classification.
+This project successfully developed a machine learning model capable of detecting fake news with an impressive accuracy of 99%. The results highlight the model's robustness in handling real-world datasets and its
+potential to be deployed as a tool to combat the spread of misinformation. With its high precision and recall, the model is capable of accurately identifying both true and fake news articles, making it a reliable
+resource for news classification.
 
 
