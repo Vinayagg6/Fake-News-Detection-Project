@@ -5,14 +5,14 @@ Logistic Regression
 Decision Tree Classifier
 Gradient Boost Classifier
 Random Forest Classifier
-Project Overview
+**Project Overview**
 Fake news has become a significant issue in today's digital age, where information spreads rapidly through various online platforms. This project leverages machine learning algorithms to automatically determine the authenticity of news articles, providing a valuable tool to combat misinformation.
 
-Dataset
+**Dataset**
 We have used a labelled dataset containing news articles along with their corresponding labels (true or false). The dataset is divided into two classes:
 
 True: Genuine news articles
 False: Fake or fabricated news articles
 
-Results
+**Results**
 We evaluated each classifier's performance using metrics such as accuracy, precision, recall, and F1 score. The results are documented in the project files.
