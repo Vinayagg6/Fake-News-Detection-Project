@@ -5,6 +5,7 @@ Logistic Regression
 Decision Tree Classifier
 Gradient Boost Classifier
 Random Forest Classifier
+
 **Project Overview**
 Fake news has become a significant issue in today's digital age, where information spreads rapidly through various online platforms. This project leverages machine learning algorithms to automatically determine the authenticity of news articles, providing a valuable tool to combat misinformation.
 
