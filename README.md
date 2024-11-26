@@ -16,6 +16,7 @@ Fake news has become a significant issue in today's digital age, where informati
 We have used a labelled dataset containing news articles along with their corresponding labels (true or false). The dataset is divided into two classes:
 
 True: Genuine news articles
+
 False: Fake or fabricated news articles
 
 **Results**
